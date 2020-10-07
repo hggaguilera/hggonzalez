@@ -28,15 +28,9 @@
 <br />
 
 ---
-<details>
-  <summary>:zap: Stats</summary>
-  <img align="left" alt="Gabriel's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=hggonzalez&show_icons=true&hide_border=true&count_private=true" />
-</details>
+<img alt="Gabriel's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=hggonzalez&show_icons=true&hide_border=true&count_private=true" />
 
-<details>
-  <summary>:zap: Languages</summary>
-  <img align="left" alt="Gabriel's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hggonzalez&hide=css&layout=compact" />
-</details>
+<img alt="Gabriel's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hggonzalez&hide=css&layout=compact" />
 
 [website]: https://hggonzalez.tech
-[linkedin]: https://linkedin.com/in/codeSTACKr
+[linkedin]: https://www.linkedin.com/in/hector-gonzalez-572383163/
